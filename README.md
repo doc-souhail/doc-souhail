@@ -46,8 +46,7 @@
 <br>
 <p align = "center">
   <img height="180em"  src = "https://github-readme-stats.vercel.app/api?username=doc-suell&show_icons=true&theme=radical&line_height=27">
-  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=doc-suell&hide=css,html&layout=compact&langs_count=5&theme=radical">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doc-suell)](https://github.com/anuraghazra/github-readme-stats)
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=doc-suell&layout=compact&langs_count=10&theme=radical">
 </p>
 
 <p align = "center">
