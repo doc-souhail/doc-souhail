@@ -1,8 +1,8 @@
 <!-- ## 👋 Hey everyone, I'm SOUHAIL NAJI®™ 👋 -->
 
-<img src="images/2.jpg" />
+<img src="images/3.jpg" />
 
-<h2 align="center">Technologys used</h2>
+<h2 align="center">🛠 Technologys used</h2>
 
 <p align="center">
 
@@ -15,6 +15,8 @@
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+
 </p>
 
 <h2 align="center">Find me all around the web</h2>
@@ -29,7 +31,7 @@
 
 <br>
 <h2 align="center">
-  My Github Stats
+  ⚙️ My Github Stats
 </h2>
 
 <br>
