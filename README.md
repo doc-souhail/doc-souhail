@@ -1,6 +1,6 @@
 <!-- ## 👋 Hey everyone, I'm SOUHAIL NAJI®™ 👋 -->
 
-<img src="images/3.jpg" />
+<img src="images/3.jpg"/>
 
 <h2 align="center">🛠 Technologys used</h2>
 
