@@ -1,4 +1,4 @@
-## 👋 Hey everyone, I'm SOUHAIL NAJI®™ 👋
+<!-- ## 👋 Hey everyone, I'm SOUHAIL NAJI®™ 👋 -->
 
 <img src="images/2.jpg" />
 
@@ -17,14 +17,16 @@
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
-### Find me all around the web:
+<h2 align="center">Find me all around the web</h2>
 
-<div align="center"> </div>
+<p align="center">
 <a href="https://www.linkedin.com/in/souhail-naji/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/56301813/197393584-b2eca46f-e9d2-4c6c-8158-ab33a784f5ca.png" alt="" height="30" /></a>
 <a href="https://codepen.io/doc-suell" target="blank"><img align="center" src="https://user-images.githubusercontent.com/56301813/197393670-2a8f6a02-3404-4de2-9e92-0c7107f2e187.png" alt="" height="30" /></a>
 <a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/56301813/197393775-1b29a76b-4219-46a5-b304-f3d1b67c8877.png" alt="" height="30" /></a>
 <a href="https://www.frontendmentor.io/profile/doc-suell" target="blank"><img align="center" src="https://user-images.githubusercontent.com/56301813/197393984-461883c9-ce5b-4de2-9ed1-bec17e817c12.png" alt="" height="30" /></a>
 <a href="https://leetcode.com/Souhail_Naji/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/56301813/197394194-6c23a902-a741-4fb3-8dad-94f844b681e6.png" alt="" height="30" /></a>
+</p>
+
 <br><br>
 
 <h2 align="center">
