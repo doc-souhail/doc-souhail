@@ -30,10 +30,6 @@
 <br><br>
 
 <h2 align="center">
-  My Contribution Graph
-</h2>
-
-<h2 align="center">
   My Github Stats
 </h2>
 
