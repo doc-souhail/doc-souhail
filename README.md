@@ -27,14 +27,12 @@
 <a href="https://leetcode.com/Souhail_Naji/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/56301813/197394194-6c23a902-a741-4fb3-8dad-94f844b681e6.png" alt="" height="30" /></a>
 </p>
 
-<br><br>
-
+<br>
 <h2 align="center">
   My Github Stats
 </h2>
 
 <br>
-
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=doc-suell&show_icons=true&theme=radical&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=doc-suell&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
