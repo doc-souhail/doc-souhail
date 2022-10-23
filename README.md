@@ -50,7 +50,7 @@
 </p>
 
 <p align = "center">
- <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=doc-suell&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=doc-suell&layout=compact&theme=radical&line_height=0" />
 </p>
 
 <p align = "center">
