@@ -45,10 +45,8 @@
 <br>
 <p align = "center">
   <img height="180em"  src = "https://github-readme-stats.vercel.app/api?username=doc-suell&show_icons=true&theme=radical&line_height=27">
-  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=doc-suell&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=doc-suell&layout=compact&langs_count=8&theme=radical">
 </p>
-
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=doc-suell&layout=compact&langs_count=8&theme=algolia"/>
 
 <p align = "center">
  <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=doc-suell&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
