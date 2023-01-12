@@ -44,7 +44,7 @@
 </h2>
 
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?doc-suell=anuraghazra&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doc-suell)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 <p align = "center">
   <img height="180em"  src = "https://github-readme-stats.vercel.app/api?username=doc-suell&show_icons=true&theme=radical&line_height=27">
