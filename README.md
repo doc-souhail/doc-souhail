@@ -54,9 +54,10 @@
 <p align = "center">
  <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=doc-suell&layout=compact&theme=radical" />
 </p>
-
+<!--
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=doc-suell&theme=redical">
 </p> 
+-->
 <hr>
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
