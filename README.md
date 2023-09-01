@@ -47,16 +47,16 @@
 
 
 <p align = "center">
-  <img height="180em"  src = "https://github-readme-stats.vercel.app/api?username=doc-suell&show_icons=true&theme=radical&line_height=27">
-  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=doc-suell&layout=compact&langs_count=10&theme=radical">
+  <img height="180em"  src = "https://github-readme-stats.vercel.app/api?username=doc-souhail&show_icons=true&theme=radical&line_height=27">
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=doc-souhail&layout=compact&langs_count=10&theme=radical">
 </p>
 
 <p align = "center">
- <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=doc-suell&layout=compact&theme=radical" />
+ <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=doc-souhail&layout=compact&theme=radical" />
 </p>
 <!--
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=doc-suell&theme=redical">
+ <img src="https://activity-graph.herokuapp.com/graph?username=doc-souhail&theme=redical">
 </p> 
 -->
 <hr>
